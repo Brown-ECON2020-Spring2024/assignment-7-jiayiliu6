@@ -15,3 +15,4 @@ source("./code/make_figures.r")
 ## Run Tests
 testthat::local_edition(3)
 testthat::test_dir("tests")
+# PASS 6
