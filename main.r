@@ -1,4 +1,5 @@
 ## Run all code for the project
+renv::restore()
 
 ## Get raw data
 source("./code/get_gapminder_data.r")
